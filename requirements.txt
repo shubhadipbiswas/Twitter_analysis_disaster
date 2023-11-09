@@ -1,0 +1,14 @@
+prompt-toolkit==3.0.39 
+scikit-learn
+traitlets==5.7.0
+streamlit
+pandas
+numpy
+matplotlib
+datetime
+pytz
+textblob
+tweepy==4.4.0
+wordcloud
+configparser
+
