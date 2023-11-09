@@ -11,6 +11,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from PIL import Image
 import pytz
 import nltk
+nltk.download('stopwords')
 import string
 
 emoji_pattern = re.compile("["
